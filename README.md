@@ -1,2 +1,2 @@
 # OOP
-Every think from Java OOP course
+Everything from Java-OOP course
