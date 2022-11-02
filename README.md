@@ -8,3 +8,5 @@ Everything from Java-OOP course!
 2.Working With Abstraction EX - DONE
 
 3.Encapsulation - DONE
+
+4.Encapsulation EX - DONE
