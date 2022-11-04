@@ -10,3 +10,5 @@ Everything from Java-OOP course!
 3.Encapsulation - DONE
 
 4.Encapsulation EX - DONE
+
+5.Inheritance - DONE
