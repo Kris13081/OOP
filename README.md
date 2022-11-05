@@ -14,3 +14,5 @@ Everything from Java-OOP course!
 5.Inheritance - DONE
 
 6.InheritanceEX - DONE
+
+7.Interfaces and Abstractions - DONE
