@@ -20,3 +20,5 @@ Everything from Java-OOP course!
 8.Interfaces and Abstractions EX - DONE
 
 9.Polymorphism - DONE
+
+10.Polymorphism EX - DONE
