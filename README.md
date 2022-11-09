@@ -22,3 +22,5 @@ Everything from Java-OOP course!
 9.Polymorphism - DONE
 
 10.Polymorphism EX - DONE
+
+11.SOLID -DONE
