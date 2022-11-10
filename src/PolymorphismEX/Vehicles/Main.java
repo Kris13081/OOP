@@ -15,7 +15,7 @@ public class Main {
         String[] truckInfo = scanner.nextLine().split(" ");
         double truckFuelQuantity = Double.parseDouble(truckInfo[1]);
         double truckFuelConsumptionPerKilometer = Double.parseDouble(truckInfo[2]);
-        double truckTankCapacity = Double.parseDouble(carInfo[3]);
+        double truckTankCapacity = Double.parseDouble(truckInfo[3]);
         VehicleImpl truck = new Truck(truckFuelQuantity, truckFuelConsumptionPerKilometer, truckTankCapacity);
 
         String[] busInfo = scanner.nextLine().split(" ");
