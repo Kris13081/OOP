@@ -3,15 +3,16 @@ package SOLIDEX.products;
 import SOLIDEX.Food;
 import SOLIDEX.Product;
 
-public class Chocolate implements Product, Food {
+public class Chips implements Product, Food {
 
-    public static final double CALORIES_PER_100_GRAMS = 575.0;
+    public static final double CALORIES_PER_100_GRAMS = 529.0;
 
     private double grams;
 
-    public Chocolate(double grams) {
+    public Chips(double grams) {
         this.grams = grams;
     }
+
 
     @Override
     public double getGrams() {
@@ -22,5 +23,6 @@ public class Chocolate implements Product, Food {
     public double getCaloriesPer100Grams() {
         return CALORIES_PER_100_GRAMS;
     }
+
 
 }

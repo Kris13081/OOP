@@ -24,3 +24,9 @@ Everything from Java-OOP course!
 10.Polymorphism EX - DONE
 
 11.SOLID -DONE
+
+12.SOLID EX - DONE
+
+13.Reflection and Annotations - DONE
+
+14.Reflection and Annotations EX - DONE
